@@ -10,9 +10,11 @@ Table of Contents
 ---
 Project Overview
 
--A RESTful API for managing contacts with user authentication built with Node.js, Express, and MongoDB. Key features include:
+A RESTful API for managing contacts with user authentication built with Node.js, Express, and MongoDB. 
+Key features include:
+
 -User registration and login with JWT authentication
-CRUD operations for contacts
+-CRUD operations for contacts
 -Password hashing and secure token-based authentication
 -Role-based access control
 -Robust error handling
