@@ -6,6 +6,7 @@ Table of Contents
 3. API Documentation
 4. Error Handling
 5. Authentication
+6. Screenshots
 
 ---
 ## 1. Project Overview
@@ -31,8 +32,9 @@ A RESTful API for managing contacts with user authentication built with Node.js,
 
 ---
 ## 3. API Documentation
+
 ### Base URL
-http://localhost:3000
+http://localhost:5002
 
 ### Authentication Endpoints
 1. Register User
@@ -172,3 +174,7 @@ The following environment variables are required:
 3. Create a .env file with required variables
 
 4. Start the server: node server.js
+
+---
+6. ## Screenshots
+### Authentication
