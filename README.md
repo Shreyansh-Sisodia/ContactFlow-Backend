@@ -176,5 +176,7 @@ The following environment variables are required:
 4. Start the server: node server.js
 
 ---
-6. ## Screenshots
+## 6. Screenshots
 ### Authentication
+#### User Registration
+![User Created Screenshot](./screenshots/UserCreated.png)
