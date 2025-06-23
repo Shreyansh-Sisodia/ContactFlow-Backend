@@ -177,6 +177,24 @@ The following environment variables are required:
 
 ---
 ## 6. Screenshots
-### Authentication
-#### User Registration
+### User Registration
 ![User Created Screenshot](./screenshots/UserCreated.png)
+---
+### Login with Token Generation
+![User Login Screenshot](./screenshots/UserLogin.png)
+---
+### Unauthorized Access Attempt
+![Unauthorized Access Attempt](./screenshots/UnauthorizedAccessAttempt.png)
+
+---
+### Create Contact
+![Create Contact Screenshot](./screenshots/CreateContact.png)
+---
+### Get all contacts of a user
+![Get All Contacts Screenshot](./screenshots/GetAllContacts.png)
+---
+### Update a contact
+![Update Contact Screenshot](./screenshots/UpdateContact.png)
+---
+### Delete a contact
+![Delete Contact Screenshot](./screenshots/DeleteContact.png)
