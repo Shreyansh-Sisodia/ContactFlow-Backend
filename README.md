@@ -8,7 +8,7 @@ Table of Contents
 5. Authentication
 
 ---
-Project Overview
+## 1. Project Overview
 
 A RESTful API for managing contacts with user authentication built with Node.js, Express, and MongoDB. 
 ### Key Features include:
@@ -19,3 +19,23 @@ A RESTful API for managing contacts with user authentication built with Node.js,
 - Role-based access control  
 - Robust error handling
 
+---
+## 2. Tech Stack
+
+| Component       | Technology                |
+|------------------|--------------------------|
+| Backend         | Node.js, Express          |
+| Database        | MongoDB (Mongoose ODM)    |
+| Authentication  | JWT, bcrypt               |
+| Error Handling  | Custom middleware         |
+
+---
+## 3. API Documentation
+### Base URL
+http://localhost:3000
+
+### Authentication Endpoints
+1. Register User
+POST /api/users/register
+
+Request Body:
